@@ -2,6 +2,16 @@
 
 Blood Bank Donation System is a php based web project with both admin and user layouts.
 
+#Use Cases:
+
+Bood Bank System
+- Add a blood donor details w address, blood type, date of last donated blood and phone number
+- Blood availability
+- system to reject available blood based on expiry date
+- alerts when stock goes beyond a threshold (again this depends on blood type)
+- quantity threshold configuraiton against blood type
+- expirty date settings for blood type"
+
 # Installation
 
 1. Install XAMPP or WAMPP.
